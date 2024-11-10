@@ -1,0 +1,7 @@
+🔗  Linked to salehins-projects/bistro-boss-server (created .vercel and added it to .gitignore)
+🔍  Inspect: https://vercel.com/salehins-projects/bistro-boss-server/Fc1YsbPeEzDZ7n8vyHRpRK2PMUcs [3s]
+✅  Production: https://bistro-boss-server-b9d7flngy-salehins-projects.vercel.app [3s]
+
+
+Project Console: https://console.firebase.google.com/project/bistro-boss-dd016/overview
+Hosting URL: https://bistro-boss-dd016.web.app
